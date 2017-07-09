@@ -8,7 +8,7 @@
       <h2 class="subtitle">
         Personal Website
       </h2>
-      <h3>Powered by Vue and Nuxt</h3>
+      <h3>Powered by Vue, Nuxt and Node.</h3>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
