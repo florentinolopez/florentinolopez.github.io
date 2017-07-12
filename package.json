@@ -5,6 +5,7 @@
   "author": "Florentino Lopez",
   "private": true,
   "dependencies": {
+    "@nuxtjs/bootstrap-vue": "^1.0.4",
     "nuxt": "latest"
   },
   "scripts": {
