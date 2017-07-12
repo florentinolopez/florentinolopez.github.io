@@ -51,3 +51,8 @@ html
   background-color: #35495e;
 }
 </style>
+
+<script>
+  import 'bootstrap-vue/dist/bootstrap-vue.css'
+  import 'bootstrap/dist/css/bootstrap.css'
+</script>

@@ -9,11 +9,13 @@
         Personal Website
       </h2>
       <h3>Powered by Vue, Nuxt and Node.</h3>
-      <p><nuxt-link to="/about">About</nuxt-link></p>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-      </div>
+
+      <b-alert show>
+        Home page
+      </b-alert>
+
+      <p><nuxt-link to="/about">Link to About</nuxt-link></p>
+
     </div>
   </section>
 </template>

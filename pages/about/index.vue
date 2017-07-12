@@ -1,11 +1,14 @@
 <template>
   <div>
-    <h1>About page</h1>
-    <nuxt-link to="/">Home</nuxt-link>
-
     <b-alert show>
-        Hello Bootstrap!
+      About page
     </b-alert>
+    
+    <nuxt-link to="/">Link to Home</nuxt-link>
 
   </div>
 </template>
+
+<script>
+
+</script>

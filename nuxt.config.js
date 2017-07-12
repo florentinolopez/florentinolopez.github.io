@@ -40,6 +40,6 @@ module.exports = {
   */
   modules: [
     // Simple usage
-    '@nuxtjs/bootstrap-vue'
+    ['@nuxtjs/bootstrap-vue', { css: false }]
   ]
 }
